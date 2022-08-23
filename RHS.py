@@ -20,8 +20,9 @@ import os
 
 try:
 
-	import requests except ImportError:
-
+	import requests
+	
+except ImportError:
 	os.system("pip install requests")
 
  
