@@ -778,26 +778,18 @@ def follow(ses,coki):
 logo = """
 
 $$$$$$$\        $$\   $$\        $$$$$$\  
-
 $$  __$$\       $$ |  $$ |      $$  __$$\ 
-
 $$ |  $$ |      $$ |  $$ |      $$ /  \__|
-
 $$$$$$$  |      $$$$$$$$ |      \$$$$$$\  
-
 $$  __$$<       $$  __$$ |       \____$$\ 
-
 $$ |  $$ |      $$ |  $$ |      $$\   $$ |
-
 $$ |  $$ |      $$ |  $$ |      \$$$$$$  |
-
 \__|  \__|      \__|  \__|       \______/ 
 
                                           
 
-                                          
-
-                                          \033[0;91m Version : 1.0
+                               
+                                          \033[0;91m Version : 2.0.1
 
  \x1b[1;97m---------------------------------------------------
 
@@ -811,7 +803,7 @@ $$ |  $$ |      $$ |  $$ |      \$$$$$$  |
 
  \x1b[1;97m[+] Developer :  HADI ANHAF
 
- \x1b[1;97m[+] Visit     :  www.hadianhaf.blogspot.com
+ \x1b[1;97m[+] Visi. :https://www.facebook.com/RHS7201/
 
  \x1b[1;97m[+] Contact   :  01728195051
 
@@ -857,7 +849,7 @@ class Main:
 
 		elif Baloch in ["1", "01"]:
 
-			os.system("xdg-open https://www.facebook.com/roksana.ak123")
+			os.system("xdg-open https://www.facebook.com/RHS7201/")
 
 			print("")
 
@@ -889,7 +881,7 @@ class Main:
 
 		print(" [3] Random Cloning")
 
-		print(" [4] 2006 TO 2008")
+		print(" [4] 2006 TO 2009")
 
 		print(" [5] 2009 TO 2010")
 
